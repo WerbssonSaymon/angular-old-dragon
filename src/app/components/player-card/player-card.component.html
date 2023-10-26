@@ -1,0 +1,33 @@
+<div *ngFor="let player of players_data">
+    <h1>{{ player.name }}</h1>
+    <div class="container__atributes">
+        <span>{{ player.rice }}</span>
+        <span>{{ player.class }}</span>
+        <span>{{ player.life }}</span>
+        <span>{{ player.level }}</span>
+        <table>
+            <tr>
+                <th>FOR</th>
+                <th>DES</th>
+                <th>CON</th>
+            </tr>
+            <tr>
+                <td>{{ player.status.for }}</td>
+                <td>{{ player.status.des }}</td>
+                <td>{{ player.status.con }}</td>
+            </tr>
+            <tr>
+                <th>INT</th>
+                <th>SAB</th>
+                <th>CAR</th>
+            </tr>
+            <tr>
+                <td>{{ player.status.int }}</td>
+                <td>{{ player.status.sab }}</td>
+                <td>{{ player.status.car }}</td>
+            </tr>
+        </table>
+        <p>{{ player.description }}</p>
+    </div>
+</div>
+

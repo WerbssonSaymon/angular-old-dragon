@@ -1,0 +1,56 @@
+{
+    "players": [
+        {
+            "id": 1,
+            "name" : "thalissa",
+            "race": "elfo",
+            "class": "mago",
+            "life": 35,
+            "level": 4,
+            "status": {
+                "for": 8,
+                "des": 10,
+                "con": 14,
+                "int": 18,
+                "sab": 18,
+                "car": 19
+            },
+            "description": "elfa bela que usa a magia para obliterar seus inimigos"       
+        },
+        {
+            "id": 2,
+            "name": "Garrick",
+            "race": "Anão",
+            "class": "Guerreiro",
+            "life": 50,
+            "level": 5,
+            "status": {
+                "for": 16,
+                "des": 8,
+                "con": 18,
+                "int": 10,
+                "sab": 12,
+                "car": 6
+            },
+            "description": "Garrick é um anão resistente e corajoso, um guerreiro habilidoso nas artes da batalha. Ele carrega consigo um machado de guerra ancestral e luta para proteger seu clã e seu lar nas profundezas das montanhas."
+    
+        },
+        {
+            "id": 3,
+            "name": "Lyria",
+            "race": "Humano",
+            "class": "Ladino",
+            "life": 40,
+            "level": 4,
+            "status": {
+                "for": 10,
+                "des": 16,
+                "con": 12,
+                "int": 14,
+                "sab": 10,
+                "car": 16
+            },
+            "description": "Lyria é uma humana ágil e astuta, uma ladina que domina as artes do sigilo e do combate furtivo. Ela é uma ladrã experiente e uma mestra na arte de desarmar armadilhas e abrir fechaduras. Seu passado misterioso esconde segredos que podem mudar o rumo do mundo."
+        }
+    ]
+}

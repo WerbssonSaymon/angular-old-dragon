@@ -1,0 +1,28 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+
+    .container__menu {
+        display: flex;
+        flex-direction: column;
+        width: 300px;
+        height: 100vh;
+        border: 1px solid #452C19;
+        overflow: hidden;
+
+        #author {
+            margin-top: 25rem;
+        }
+    }
+
+    .container__content {
+        width: 100vw;
+        height: 100vh;
+        overflow: scroll;
+        display: flex;
+        align-items: start;
+        justify-content: center;
+    }
+}

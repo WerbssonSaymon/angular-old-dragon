@@ -1,0 +1,26 @@
+div {
+    margin-top: 1rem;
+    width: 1250px;
+    background-color: #D5B482;
+    text-align: center;
+    padding: 15px 0;
+    line-height: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 1px solid #452C19;
+
+    h1, h2 {
+        margin-bottom: 15px;
+    }
+
+    article {
+        width: 75%;
+
+        p {
+            text-align: justify;
+        }
+    }
+    
+}

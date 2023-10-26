@@ -1,0 +1,196 @@
+{
+    "monsters": [
+        {
+            "id": 1,
+            "name": "Goblin",
+            "type": "Goblinoide",
+            "life": 22,
+            "level": 2,
+            "status": {
+                "for": 10,
+                "des": 12,
+                "con": 10,
+                "int": 3,
+                "sab": 3,
+                "car": 5
+            },
+            "description": "Criaturas pequenas e caóticas, os goblins são fracos sozinhos, mas tornam-se perigosos em grupos numerosos. Eles possuem uma pele verde e orelhas pontudas, muitas vezes se escondendo nas sombras de florestas e cavernas."
+        },
+        {
+            "id": 2,
+            "name": "Ogro",
+            "type": "Gigante",
+            "life": 60,
+            "level": 4,
+            "status": {
+                "for": 20,
+                "des": 8,
+                "con": 16,
+                "int": 6,
+                "sab": 7,
+                "car": 5
+            },
+            "description": "Os ogros são gigantes brutais, conhecidos por sua força imensa. Eles são criaturas solitárias que habitam montanhas e áreas isoladas, muitas vezes pilhando vilarejos próximos."
+        },
+        {
+            "id": 3,
+            "name": "Espectro",
+            "type": "Morto-vivo",
+            "life": 45,
+            "level": 5,
+            "status": {
+                "for": 6,
+                "des": 14,
+                "con": 12,
+                "int": 10,
+                "sab": 16,
+                "car": 15
+            },
+            "description": "Espectros são almas atormentadas que retornaram do mundo dos mortos. Eles são capazes de atravessar paredes e possuem um toque gélido que enfraquece suas vítimas. São frequentemente ligados a lugares assombrados e tragédias do passado."
+        },
+        {
+            "id": 4,
+            "name": "Dragão Negro",
+            "type": "Dragão",
+            "life": 150,
+            "level": 10,
+            "status": {
+                "for": 24,
+                "des": 12,
+                "con": 20,
+                "int": 16,
+                "sab": 14,
+                "car": 18
+            },
+            "description": "Os dragões negros são criaturas ancestrais e poderosas, conhecidas por sua afinidade com água enlameada e pântanos. Eles expelem ácido corrosivo e são extremamente territorialistas, protegendo suas áreas com ferocidade."
+        },
+        {
+            "id": 5,
+            "name": "Lobo Gigante",
+            "type": "Besta",
+            "life": 35,
+            "level": 3,
+            "status": {
+                "for": 18,
+                "des": 14,
+                "con": 12,
+                "int": 2,
+                "sab": 8,
+                "car": 5
+            },
+            "description": "Os lobos gigantes são feras selvagens e carnívoras que caçam em matilhas. Eles possuem tamanho e força superiores aos lobos comuns, tornando-os predadores temíveis nas florestas e planícies."
+        },
+        {
+            "id": 6,
+            "name": "Lich",
+            "type": "Morto-vivo",
+            "life": 120,
+            "level": 12,
+            "status": {
+                "for": 10,
+                "des": 12,
+                "con": 16,
+                "int": 20,
+                "sab": 18,
+                "car": 14
+            },
+            "description": "Os liches são feiticeiros que alcançaram a imortalidade por meios sombrios, tornando-se mortos-vivos. Eles possuem um vasto conhecimento de magia negra e muitas vezes guardam tumbas antigas e segredos mágicos proibidos."
+        },
+        {
+            "id": 7,
+            "name": "Elemental de Fogo",
+            "type": "Elemental",
+            "life": 65,
+            "level": 6,
+            "status": {
+                "for": 16,
+                "des": 10,
+                "con": 14,
+                "int": 6,
+                "sab": 12,
+                "car": 8
+            },
+            "description": "Os elementais de fogo são criaturas vivas feitas de chamas ardentes. Eles são invocados em rituais mágicos e podem causar destruição em seu rastro. São conhecidos por sua natureza impulsiva e destrutiva."
+        },
+        {
+            "id": 9,
+            "name": "Hidra",
+            "type": "Monstro",
+            "life": 90,
+            "level": 8,
+            "status": {
+                "for": 22,
+                "des": 10,
+                "con": 18,
+                "int": 2,
+                "sab": 6,
+                "car": 5
+            },
+            "description": "A hidra é uma besta mítica com múltiplas cabeças e um apetite insaciável. Cortar uma de suas cabeças resulta em duas crescendo em seu lugar. Ela é frequentemente encontrada em pântanos e áreas úmidas, espalhando o terror por onde passa."
+        },
+        {
+            "id": 10,
+            "name": "Succubus",
+            "type": "Demônio",
+            "life": 60,
+            "level": 7,
+            "status": {
+                "for": 8,
+                "des": 16,
+                "con": 12,
+                "int": 18,
+                "sab": 20,
+                "car": 22
+            },
+            "description": "As succubus são demônios sedutores, conhecidos por sua beleza hipnotizante. Elas se infiltram nos sonhos das vítimas, sugando suas energias vitais. São mestres da manipulação e da sedução."
+        },
+        {
+            "id": 11,
+            "name": "Minotauro",
+            "type": "Monstro",
+            "life": 75,
+            "level": 6,
+            "status": {
+                "for": 20,
+                "des": 10,
+                "con": 16,
+                "int": 8,
+                "sab": 10,
+                "car": 5
+            },
+            "description": "Os minotauros são criaturas meio humanas e meio touro, habitantes de labirintos e locais subterrâneos. São ferozes guerreiros e possuem uma fixação pela busca de saídas em labirintos."
+        },
+        {
+            "id": 12,
+            "name": "Elemental de Terra",
+            "type": "Elemental",
+            "life": 80,
+            "level": 7,
+            "status": {
+                "for": 18,
+                "des": 8,
+                "con": 20,
+                "int": 6,
+                "sab": 10,
+                "car": 6
+            },
+            "description": "Os elementais de terra são seres feitos de rocha e terra, conhecidos por sua resistência e força. Eles são frequentemente evocados para a proteção de locais sagrados e tesouros enterrados."
+        },
+        {
+            "id": 13,
+            "name": "Banshee",
+            "type": "Morto-vivo",
+            "life": 50,
+            "level": 5,
+            "status": {
+                "for": 8,
+                "des": 14,
+                "con": 10,
+                "int": 12,
+                "sab": 18,
+                "car": 20
+            },
+            "description": "As banshees são espíritos atormentados, conhecidas por seus gritos angustiantes. Seus lamentos podem causar medo e agonia em todos que os ouvem. Elas são frequentemente associadas a locais amaldiçoados e tragédias."
+        }
+    ]
+}

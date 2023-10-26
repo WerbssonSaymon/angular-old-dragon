@@ -1,0 +1,31 @@
+<div *ngFor="let monster of monsters_data">
+    <h1>{{ monster.name }}</h1>
+    <div class="container__atributes">
+        <span>{{ monster.type }}</span>
+        <span>{{ monster.life }}</span>
+        <span>{{ monster.level }}</span>
+        <table>
+            <tr>
+                <th>FOR</th>
+                <th>DES</th>
+                <th>CON</th>
+            </tr>
+            <tr>
+                <td>{{ monster.status.for }}</td>
+                <td>{{ monster.status.des }}</td>
+                <td>{{ monster.status.con }}</td>
+            </tr>
+            <tr>
+                <th>INT</th>
+                <th>SAB</th>
+                <th>CAR</th>
+            </tr>
+            <tr>
+                <td>{{ monster.status.int }}</td>
+                <td>{{ monster.status.sab }}</td>
+                <td>{{ monster.status.car }}</td>
+            </tr>
+        </table>
+        <p>{{ monster.description }}</p>
+    </div>
+</div>

@@ -1,0 +1,182 @@
+{
+    "weapons": [
+        {
+            "id": 1,
+            "name": "Espada Curta",
+            "status": {
+                "damage": 6,
+                "critical": 19,
+                "price": 12
+            }
+        },
+        {
+            "id": 2,
+            "name": "Espada Longa",
+            "status": {
+                "damage": 8,
+                "critical": 20,
+                "price": 20
+            }
+        },
+        {
+            "id": 3,
+            "name": "Arco Curto",
+            "status": {
+                "damage": 5,
+                "critical": 18,
+                "price": 15
+            }
+        },
+        {
+            "id": 4,
+            "name": "Arco Longo",
+            "status": {
+                "damage": 7,
+                "critical": 20,
+                "price": 25
+            }
+        },
+        {
+            "id": 5,
+            "name": "Machado de Batalha",
+            "status": {
+                "damage": 9,
+                "critical": 17,
+                "price": 22
+            }
+        },
+        {
+            "id": 6,
+            "name": "Lança de Ferro",
+            "status": {
+                "damage": 7,
+                "critical": 18,
+                "price": 18
+            }
+        },
+        {
+            "id": 7,
+            "name": "Martelo de Guerra",
+            "status": {
+                "damage": 10,
+                "critical": 20,
+                "price": 30
+            }
+        },
+        {
+            "id": 8,
+            "name": "Adaga de Prata",
+            "status": {
+                "damage": 4,
+                "critical": 20,
+                "price": 10
+            }
+        },
+        {
+            "id": 9,
+            "name": "Cajado Mágico",
+            "status": {
+                "damage": 5,
+                "critical": 20,
+                "price": 35
+            }
+        },
+        {
+            "id": 10,
+            "name": "Flechas de Fogo",
+            "status": {
+                "damage": 3,
+                "critical": 20,
+                "price": 8
+            }
+        },
+        {
+            "id": 11,
+            "name": "Armadura de Placas",
+            "status": {
+                "armor_class": 18,
+                "price": 45
+            }
+        },
+        {
+            "id": 12,
+            "name": "Escudo de Aço",
+            "status": {
+                "armor_class": 2,
+                "price": 15
+            }
+        },
+        {
+            "id": 13,
+            "name": "Varinha de Trovão",
+            "status": {
+                "damage": 4,
+                "critical": 18,
+                "price": 28
+            }
+        },
+        {
+            "id": 14,
+            "name": "Maça de Guerra",
+            "status": {
+                "damage": 8,
+                "critical": 20,
+                "price": 20
+            }
+        },
+        {
+            "id": 15,
+            "name": "Armadura de Couro",
+            "status": {
+                "armor_class": 14,
+                "price": 25
+            }
+        },
+        {
+            "id": 16,
+            "name": "Arco Mágico",
+            "status": {
+                "damage": 7,
+                "critical": 19,
+                "price": 40
+            }
+        },
+        {
+            "id": 17,
+            "name": "Espada Flamejante",
+            "status": {
+                "damage": 10,
+                "critical": 17,
+                "price": 50
+            }
+        },
+        {
+            "id": 18,
+            "name": "Lança de Gelo",
+            "status": {
+                "damage": 6,
+                "critical": 18,
+                "price": 30
+            }
+        },
+        {
+            "id": 19,
+            "name": "Cajado de Sabedoria",
+            "status": {
+                "damage": 6,
+                "critical": 20,
+                "price": 35
+            }
+        },
+        {
+            "id": 20,
+            "name": "Flechas Envenenadas",
+            "status": {
+                "damage": 4,
+                "critical": 20,
+                "price": 12
+            }
+        }
+    ]
+    
+}

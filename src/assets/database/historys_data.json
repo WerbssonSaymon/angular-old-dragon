@@ -1,0 +1,67 @@
+{
+    "historys": [
+        {
+            "id": 1,
+            "title": "Sessão Um",
+            "subTitle": "O Caminho da Dríade",
+            "description": "Na escuridão da floresta medieval, uma misteriosa dríade emerge, perturbando a paz da região."
+        },
+        {
+            "id": 2,
+            "title": "Sessão Dois",
+            "subTitle": "O Caldeirão Mágico",
+            "description": "Os heróis se deparam com um caldeirão antigo, contendo uma poção de cores cintilantes preparada pela dríade."
+        },
+        {
+            "id": 3,
+            "title": "Sessão Três",
+            "subTitle": "A União Inesperada",
+            "description": "Conscientes das intenções da dríade, os heróis se reúnem para auxiliá-la e desvendar o mistério que paira sobre a floresta medieval."
+        },
+        {
+            "id": 4,
+            "title": "Sessão Quatro",
+            "subTitle": "O Lamento das Árvores",
+            "description": "Um coro de árvores ancestrais revela segredos antigos e lança luz sobre a ameaça que paira sobre a floresta."
+        },
+        {
+            "id": 5,
+            "title": "Sessão Cinco",
+            "subTitle": "O Despertar do Guardião",
+            "description": "Um guardião antigo é convocado para proteger a floresta medieval, e os heróis devem ajudá-lo a se preparar para a batalha iminente."
+        },
+        {
+            "id": 6,
+            "title": "Sessão Seis",
+            "subTitle": "A Busca dos Artefatos",
+            "description": "Os heróis embarcam em uma jornada em busca de artefatos mágicos que podem auxiliar na luta contra a ameaça que se aproxima."
+        },
+        {
+            "id": 7,
+            "title": "Sessão Sete",
+            "subTitle": "O Templo Esquecido",
+            "description": "Os aventureiros descobrem um templo esquecido nas profundezas da floresta, onde pistas cruciais sobre o inimigo são reveladas."
+        },
+        {
+            "id": 8,
+            "title": "Sessão Oito",
+            "subTitle": "Confronto Élfico",
+            "description": "Uma antiga raça élfica emerge para ajudar na luta contra a ameaça, mas os heróis devem primeiro provar seu valor em um teste de habilidade."
+        },
+        {
+            "id": 9,
+            "title": "Sessão Nove",
+            "subTitle": "O Ritual da Purificação",
+            "description": "Os heróis precisam realizar um ritual mágico para purificar a floresta e enfraquecer o inimigo."
+        },
+        {
+            "id": 10,
+            "title": "Sessão Dez",
+            "subTitle": "A Batalha Final",
+            "description": "A grande batalha se aproxima, com a ameaça final se revelando, e os heróis enfrentam o desafio derradeiro para salvar a floresta medieval da destruição."
+        }
+    
+    ]
+}
+
+    
